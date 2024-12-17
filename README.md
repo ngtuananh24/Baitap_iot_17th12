@@ -11,5 +11,6 @@ Bài 2: Liên tục đọc nhiệt độ t sau đó:
 - Hiển thị thêm t_lọc trên web
 
 -------------------
-Kết quả chương trình: ĐÃ HOÀN THÀNH TEST OK
+Kết quả chương trình: 
+### ĐÃ HOÀN THÀNH TEST OK
 ![image](https://github.com/user-attachments/assets/22af52a4-8397-4842-8dcb-8d924bf988c4)
